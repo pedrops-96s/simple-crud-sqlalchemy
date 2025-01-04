@@ -116,6 +116,4 @@ Você pode substituir o `sqlite:///database.db` por outros motores, como Postgre
 
 Se você deseja contribuir para este projeto, fique à vontade para abrir um pull request ou relatar problemas encontrados. 
 
-## Licença
 
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
